@@ -65,7 +65,7 @@ int main()
 {
     vector<int> arr = {2, 5, 7, 9, 4};
     node* head = convertll(arr);
-    head = deletek(head, 7);
+    head = deletek(head, 4);
     print(head);
     
 }
